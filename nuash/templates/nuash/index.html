@@ -1,0 +1,6 @@
+{% load staticfiles %}
+<link rel="stylesheet" type="text/css" href="{% static 'nuash/style.css' %}" />
+
+{% for  in article %}
+    <p><a href="{% url 'article:detail' pk %}">{{ article.title }}</a></p>
+{% endfor %}
