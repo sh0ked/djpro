@@ -8,12 +8,8 @@ aEG
 sgf
 sr
 g
-sr
-s
-GER
-ASEG
-SAEG
-S
-EG
+
 ddddd
 
+af
+AEGF
