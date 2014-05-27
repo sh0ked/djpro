@@ -1,6 +1,6 @@
 djpro
 =====
-
+seFGesaGS
 Тестовое приложение на django
 \\sG
 wdad
